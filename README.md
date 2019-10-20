@@ -1,5 +1,5 @@
 # SAUCIE_PyTorch
-PyTorch Implementation of SAUCIE Algorithm
+PyTorch Implementation of [SAUCIE](https://github.com/KrishnaswamyLab/SAUCIE) Algorithm
 
 ***For educational (or just enjoying) purposes only. Not fully tested for real dataset.***
 
