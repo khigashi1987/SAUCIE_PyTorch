@@ -14,5 +14,5 @@ pytorch 1.3.0
 * Tensorflow old version => PyTorch
 * Bug? fixes.
 * Adjusted the impractical parameters (e.g. sigmas in RBF kernel function).
-* The resolution parameter in the cluster merging process (merge_k_nearest) can be adjusted.
+* Added the resolution parameter in the cluster merging process (merge_k_nearest).
 * Modified Maximum Mean Discrepancy calculation. Multiple batch corrections can be learned simultaneously.
